@@ -1,1 +1,1 @@
-404: Not Found
+local Rayfield = loadstring(game:HttpGet('https://pastebin.com/raw/kvzbtvXB'))()
